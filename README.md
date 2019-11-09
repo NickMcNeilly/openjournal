@@ -2,3 +2,5 @@
 # Nick McNeilly
 
 [Archives and Databases](https://nickmcneilly.github.io/openjournal/OJ1.html)
+
+[Digital Storytelling](https://nickmcneilly.github.io/openjournal/OJ2.html)
