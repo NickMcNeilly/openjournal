@@ -8,3 +8,5 @@
 [Sound](https://nickmcneilly.github.io/openjournal/OJ3.html)
 
 [Social Media](https://nickmcneilly.github.io/openjournal/OJ5.html)
+
+[Environmental Humanities](https://nickmcneilly.github.io/openjournal/OJ6.html)
